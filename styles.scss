@@ -1,0 +1,12 @@
+/* styles.scss */
+
+/*-- scss:defaults --*/
+$navbar-hl: #1E90FF; 
+$link-color: #1E90FF;
+$link-hover-color: darken($link-color, 15%);
+
+
+/*-- scss:rules --*/
+.grid {
+  margin-top: 70px;
+}

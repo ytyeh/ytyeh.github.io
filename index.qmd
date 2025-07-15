@@ -1,0 +1,28 @@
+---
+title: "Yun-Ting Yeh"
+format: html
+editor: visual
+---
+
+::: grid
+::: g-col-4
+![Photo](images/pic.jpeg){width="80%"}\
+
+Ph.D. Candidate\
+University of Arizona
+
+<i class="fa-solid fa-location-dot"></i> Tucson, AZ
+:::
+
+::: g-col-8
+Welcome!
+
+I am a Ph.D. candidate in Economics at the University of Arizona.
+
+My research interests are in **environmental and energy economics** and **empirical industrial organization**. My current work studies regulatory discretion in water quality enforcement.
+
+I received my M.A. in Economics from the University of Tokyo, B.A. in Economics from National Taiwan University, and B.B.A. in Business Economics from City University of Hong Kong.
+
+You can contact me at [yyeh\@arizona.edu](mailto:%20yyeh@arizona.edu).
+:::
+:::
