@@ -8,3 +8,5 @@
 _site/
 docs/
 .quarto/
+
+/.quarto/
