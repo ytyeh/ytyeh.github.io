@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Yun-Ting Yeh"
+  base-url: /
   navbar:
     right:
       - href: index.qmd
