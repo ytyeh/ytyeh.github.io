@@ -9,7 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-  page-footer: "Last updated: July 14, 2025" 
+  page-footer: 
+    right: "Last updated: July 14, 2025" 
+    left:
+      - icon: github
+        href: https://github.com/ytyeh/ytyeh.github.io
 
 format:
   html:
