@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Yun-Ting Yeh"
+  description: "PhD candidate in environmental economics and industrial organization at the University of Arizona."
+  site-url: https://ytyeh.github.io/
   navbar:
     right:
       - href: index.qmd
@@ -27,6 +29,11 @@ format:
     css:
       - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     toc: true
+    include-meta:
+      description: "PhD candidate in environmental economics and industrial organization at the University of Arizona."
+      og:title: "Yun-Ting Yeh"
+      og:description: "PhD candidate in environmental economics and industrial organization at the University of Arizona."
+      og:url: https://ytyeh.github.io/
 
 editor: visual
 
