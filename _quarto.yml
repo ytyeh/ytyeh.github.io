@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googleb8ecb1c6982be639.html
 
 website:
   title: "Yun-Ting Yeh"
