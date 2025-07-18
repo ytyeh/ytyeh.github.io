@@ -6,7 +6,7 @@ editor: visual
 
 ::: grid
 ::: g-col-4
-![Photo](images/pic.jpeg){width="80%"}\
+![Photo](images/pic.png){width="80%"}\
 
 Ph.D. Candidate\
 University of Arizona
