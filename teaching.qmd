@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+---
+
+::: custom-title
+Sole Instructor of Record
+:::
+
+[University of Arizona]{style="color: #086788;"}
+
+- Microeconomic Analysis for Business Decisions (2022, 2023, online)
+
+<br>
+
+::: custom-title
+Teaching Assistant
+:::
+
+[University of Arizona]{style="color: #086788;"}
+
+- PhD Econometrics (2023)
+- Master Econometrics (2022)
+- Information Economics and the Internet (2023, 2025)
+- Climate Science and Economics (2022)
+- Intermediate Microeconomics (2024, 2025)
+- Microeconomic Analysis for Business Decisions (2021)
+- Basic Economic Issues (2021, 2022, 2023)
+
+[University of Tokyo]{style="color: #086788;"}
+
+- Industrial Organization (2020)

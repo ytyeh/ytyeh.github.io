@@ -2,12 +2,17 @@
 title: "Research"
 ---
 
-<br>
-
-- Trade-Offs from Regulatory Discretion: The Role of Political Appointments
-
-
-- Regulating Moral Hazard in Third-Party Vehicle Inspections: California Smog Check
+::: custom-title
+Work in Progress
+:::
 
 
-- Do Firms Avoid Pollution? Water Pollution and Beverage Manufacturers' Location
+[Adjustment Frictions and the Cost of Environmental Regulatory Uncertainty]{style="font-weight: bold;"} (Job Market Paper)
+
+[Measurement Errors in Weather Data]{style="font-weight: bold;"} ---with Derek Lemoine, Wint Thu
+
+[Do Firms Avoid Pollution? Water Pollution and Beverage Manufacturers' Location]{style="font-weight: bold;"}
+
+[Regulating Moral Hazard in Third-Party Vehicle Inspections: California Smog Check]{style="font-weight: bold;"}
+
+[The Choice of Cashless Payment by Consumers]{style="font-weight: bold;"} ---with Naoki Wakamori

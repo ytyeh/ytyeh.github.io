@@ -5,8 +5,29 @@ $navbar-hl: #1E90FF;
 $link-color: #1E90FF;
 $link-hover-color: darken($link-color, 15%);
 
+h1, h2 {
+  font-family: 'Trebuchet MS', sans-serif;  
+  font-weight: 600;                    
+  letter-spacing: 0.1px;             
+}
 
 /*-- scss:rules --*/
 .grid {
   margin-top: 70px;
+}
+
+.custom-title {
+  text-align: center;      
+  font-size: 1.1rem;         
+  font-family: 'Trebuchet MS', sans-serif;  
+  color: #739EC9; 
+  font-weight: bold; 
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.abstract {
+  font-size: 0.9rem;   
+  font-weight: 400;       
+  margin: 0 1.2em;
 }
