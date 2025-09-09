@@ -13,8 +13,11 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
-  page-footer: 
-    right: "Last updated: September 7, 2025" 
+      - href: /files/Yun-TingYeh_CV.pdf
+        text: CV
+        target: _blank
+  page-footer:
+    right: "Last updated: September 8, 2025" 
     left:
       - icon: github
         href: https://github.com/ytyeh/ytyeh.github.io

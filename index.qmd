@@ -11,7 +11,10 @@ editor: visual
 Ph.D. Candidate\
 University of Arizona
 
+<a href="/files/Yun-TingYeh_CV.pdf" target="_blank"> CV</a>
+
 <i class="fa-solid fa-location-dot"></i> Tucson, AZ
+
 :::
 
 ::: g-col-8
